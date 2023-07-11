@@ -1,0 +1,12 @@
+.container{
+    text-align: center;
+    margin-top: 20px;
+}
+#bio{
+    display: none;
+}
+.new{
+    background-color: red;
+    color: green;
+    border-radius: 50px;
+}
